@@ -1,0 +1,3 @@
+Veuillez installer Python v2.7 et Pygame v1.9.1, disponibles dans le dossier "Logiciels"
+
+PS : installer Python puis Pygame
